@@ -40,13 +40,13 @@ dtypes: int64(1), object(4)
 memory usage: 49.5+ KB
 ```
 
-The number of unique articles in the dataset is 1051.
-The number of unique users in the dataset is 5148.
-The number of user-article interactions in the dataset 45993.
-The most viewed article has 937 views.
-On average (mean) user has around 9 interactions with all the data.
-While median value for user interactions is 3.
-This means user interactions data has right skewed distribution.
+- The number of unique articles in the dataset is 1051.
+- The number of unique users in the dataset is 5148.
+- The number of user-article interactions in the dataset 45993.
+- The most viewed article has 937 views.
+- On average (mean) user has around 9 interactions with all the data.
+- While median value for user interactions is 3.
+	- This means user interactions data has right skewed distribution.
 
 
 ## Steps to complete:
